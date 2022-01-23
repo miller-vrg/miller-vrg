@@ -1,6 +1,6 @@
 ### **Hi there** 👋
 
-![progra](https://drive.google.com/file/d/12XCxvgw7HA_fMD6LhqzK9dkhmGnDi_RU/view?usp=sharing)
+![progra](https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)
 
 <!--
 **miller-vrg/miller-vrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,10 @@ ___
 ## My hobby :heart_eyes: :neckbeard:
 ## Mi pasatiempo :heart_eyes: :neckbeard:
 
-![perfil en W3](https://drive.google.com/file/d/12IvdjeFfc1oGQFWVbtb5f86T_JfLuoM9/view?usp=sharing)
+![perfil en W3](https://user-images.githubusercontent.com/79736753/150702599-2762025a-948c-4643-adba-0ee2dbff6dad.png)
 
-![mis puntos](https://drive.google.com/file/d/12PubiiB6pZmD-fhvpUBJKUba_tuunovy/view?usp=sharing)
+[W3 Schools](https://my-learning.w3schools.com/)
+
+![Sollear](https://www.sololearn.com/profile/18005154)
+
+![Sollear](https://www.todoandroid.es/wordpress/wp-content/uploads/2018/06/sololearn.jpg)
