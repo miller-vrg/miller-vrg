@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 ## *Soy programador junior, estoy estudiando ingeniería de sistemas, ampliando mis conocimientos para tener un mejor crecimiento, tanto en mi vida personal como profesional.*
  ___
- 
-![I](https://drive.google.com/file/d/128I05KBqRErF_dtdLdBXU330EnYlL1Hc/view?usp=sharing)
-
-___
 
 ## My hobby :heart_eyes: :neckbeard:
 ## Mi pasatiempo :heart_eyes: :neckbeard:
@@ -34,6 +30,6 @@ ___
 
 [W3 Schools](https://my-learning.w3schools.com/)
 
-![Sollear](https://www.sololearn.com/profile/18005154)
+![Sololear](https://www.sololearn.com/profile/18005154)
 
-![Sollear](https://www.todoandroid.es/wordpress/wp-content/uploads/2018/06/sololearn.jpg)
+![Sololear](https://www.todoandroid.es/wordpress/wp-content/uploads/2018/06/sololearn.jpg)
